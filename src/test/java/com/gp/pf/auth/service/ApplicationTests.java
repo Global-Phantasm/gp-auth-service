@@ -1,0 +1,13 @@
+package com.gp.pf.auth.service;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
